@@ -14,5 +14,5 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "s3_bucket" {
-  bucket = "tcb-app-qa-mohan1"
+  bucket = "tcb-app-qa-mohan1mohan"
 }
